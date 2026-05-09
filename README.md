@@ -40,6 +40,6 @@ Built and maintained a full Playwright (TypeScript) automation suite for a consu
 
 ## 📫 Reach Me
 
-[![LinkedIn](https://linkedin.com/in/conorgriffin222)
-[![Portfolio](https://conorgriffindev.github.io)
-[![Email](conorgriffin222@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conor_Griffin-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/conorgriffin222)
+[![Portfolio](https://img.shields.io/badge/Portfolio-conorgriffindev.github.io-111?style=flat&logo=github)](https://conorgriffindev.github.io)
+[![Email](https://img.shields.io/badge/Email-conorgriffin222@gmail.com-EA4335?style=flat&logo=gmail)](mailto:conorgriffin222@gmail.com)
