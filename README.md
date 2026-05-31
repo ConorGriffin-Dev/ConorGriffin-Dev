@@ -19,7 +19,7 @@ I care about quality, clean code, and building things that actually work under p
 
 - **[ScriptDojo](https://scriptdojo.ie)** — A real-time collaborative Java IDE for the browser. WebSockets, ANTLR v4 live syntax parsing, Spring Boot backend, React frontend, Docker. People write, compile, and run Java together, live.
 - **The Hollow Descent** *(active dev)* — A dark fantasy roguelike dungeon crawler in Python/Pygame. Procedurally generated, turn-based, built from scratch.
-- **QA Chaos Monkey** *(early dev)* — An automated REST API fuzzer. Born from real frustration with manual negative-path testing. Hammers endpoints with malformed and boundary-busting inputs and logs everything that breaks.
+- **QA Chaos Monkey** — An automated REST API fuzzer. Born from real frustration with manual negative-path testing. Hammers endpoints with malformed and boundary-busting inputs and logs everything that breaks.
 
 ---
 
